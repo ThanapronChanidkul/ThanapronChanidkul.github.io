@@ -1,4 +1,3 @@
-<style>
     iframe {
         position: absolute;
         width: 120%;
@@ -24,5 +23,3 @@
         position: relative;
     }
     input { width: 20%; height: 10%; font-size: 200%; border-radius: 50px;}
-
-</style>
